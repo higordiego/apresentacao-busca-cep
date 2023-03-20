@@ -19,6 +19,11 @@ rp_cep.insert_cep(
 )
 
 
+## testando
+## testando 2
+
+## testando 3
+
 print("foi inserido com sucesso essa operação de consulta de cep.")
 
 
